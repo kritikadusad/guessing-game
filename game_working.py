@@ -44,6 +44,8 @@ while True:
 	if game == 'yes':
 		guessing_number()
 		break
+	else:
+		break
 	
 		
 		
